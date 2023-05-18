@@ -1,5 +1,3 @@
 files:
-  - source: /README.MD
-    translation: '%original_file_name%%two_letters_code%'
   - source: /README.md
-    translation: /locale/%original_file_name%%two_letters_code%
+    translation: /locale/%original_file_name%/%two_letters_code%
